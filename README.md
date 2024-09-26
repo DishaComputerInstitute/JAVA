@@ -1,1 +1,2 @@
 # JAVA
+core java notes
